@@ -1,3 +1,1 @@
-<a href="https://spotify-nj36i54ip-dymlans-projects.vercel.app/now-playing?open">
-    <img src="https://spotify-nj36i54ip-dymlans-projects.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31otrtfsoebnqie5ls7w37nhbrxa&unique={true|1|on|yes})
