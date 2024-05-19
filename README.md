@@ -8,6 +8,7 @@
   <a href="https://wa.me/6289629666069)](https://wa.me/6289629666069">
     <img src="https://img.shields.io/badge/-wa-green?style=flat-square&logo=Whatsapp&logoColor=white">
   </a>
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Setiawan007)
 </p>
 
 - 🔭 &ensp;I’m currently working on Golang, Ruby & PHP ❤️ projects
