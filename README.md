@@ -1,1 +1,1 @@
-[![Spotify](https://lontekikil.vercel.app/api/spotify)](https://open.spotify.com/user/31otrtfsoebnqie5ls7w37nhbrxa)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31otrtfsoebnqie5ls7w37nhbrxa&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=31otrtfsoebnqie5ls7w37nhbrxa&redirect=true)
