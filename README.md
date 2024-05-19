@@ -10,4 +10,6 @@
   </a>
 </p>
 
-
+- 🔭 &ensp;I’m currently working on Golang, Ruby & PHP ❤️ projects
+- 🌱 &ensp;I’m currently learning Ruby 
+- 👯 &ensp;I’m looking to collaborate with other developers and designers
