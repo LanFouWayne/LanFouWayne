@@ -5,7 +5,7 @@
 <p align="">
   <a href="mailto:dylanathaya8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
   <a href="https://instagram.com/_dymlan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://wa.me/6289629666069)]">
+  <a href="https://wa.me/6289629666069">
     <img src="https://img.shields.io/badge/-wa-green?style=flat-square&logo=Whatsapp&logoColor=white">
   </a>
 </p>
