@@ -1,4 +1,4 @@
-![LanFouWayne](https://cardivo.vercel.app/api?name=Lan%20Fou%20Wayne&description=Junior Developer Indonesian&image=https://avatars.githubusercontent.com/u/165210954?v=4&backgroundColor=%23ecf0f1)
+![LanFouWayne](https://cardivo.vercel.app/api?name=Lan%20Fou%20Wayne&description=Junior%20Developer%20Indonesian&image=https://avatars.githubusercontent.com/u/165210954?v=4&backgroundColor=%23ecf0f1)
 
 <h1 align="center"> Hi <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h1571l0uucg205k05egri.gif" width="32">, I'm ☑ Lan Fou Wayne!</a></img></h1>
 
