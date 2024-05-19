@@ -8,6 +8,7 @@
   <a href="https://wa.me/6289629666069">
     <img src="https://img.shields.io/badge/-wa-green?style=flat-square&logo=Whatsapp&logoColor=white">
   </a>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Elaina_Istrinya-Lan_Fou_Wayne-red">
 </p>
 
 - 🔭 &ensp;I’m currently working on Golang, Ruby & PHP ❤️ projects
